@@ -1,0 +1,19 @@
+#header{
+    width: 100%;
+ min-height:800px;
+ padding-bottom: 50px;
+ background:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)) , url(../image2/royz\ roys.jpg) no-repeat center top fixed;
+ background-size: cover;
+ padding-top: 100px;
+}
+.check{
+    color: dodgerblue;
+    font-size: 20px ;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px;
+}
+#nav{
+    border-bottom:10px solid dodgerblue ;
+    border-radius: 7px;
+}
